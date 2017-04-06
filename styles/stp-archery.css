@@ -1,0 +1,163 @@
+html {
+  padding: 2rem;
+}
+
+body {
+  background-color: white;
+}
+
+/*--------------    Bootstrap   ---------------------------------------*/
+.col-xs-12 {
+  height: 30px;
+  background-color: lightgray;
+  color: black;
+}
+
+.col-xs-6 {
+  height: 100px;
+  background-color: yellow;
+  color: black;
+  text-align: center;
+  border: 2px solid lime;
+}
+
+.col-xs-4 {
+  height: 20rem;
+  background-color: lightgray;
+  color: white;
+  text-align: left;
+}
+
+.col-xs-8 {
+  height: 20rem;
+  background-color: lightgray;
+  text-align: center;
+}
+
+
+
+.footer  {
+  height: 5rem;
+  background-color: blue;
+  color: white;
+  text-align: center;
+  border: 2px solid black;
+}
+
+
+.footer .col-sm-4 {
+  height: 100px;
+  background-color: purple;
+  color: white;
+  text-align: center;
+  border: 2px solid black;
+}
+/*-------------------------------------------------*/
+
+
+main {
+  background: white;
+  }
+
+.banner-logo {
+  height: 16rem;
+  padding: 1rem;
+}
+
+.banner-title-box {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  padding: 1.5rem 0 3rem 0;
+}
+
+.shadow {
+ box-shadow: 10px 10px 10px #000000;
+}
+
+.contact-address-box {
+  border-radius: 4%;
+  background: #94C840;
+  text-align: center;
+  color: black;
+  margin-top: 2.5rem;
+  margin-right: 1rem;
+}
+
+
+.nav-links  {
+  color: black;
+  background: lightgray;
+  display: flex;
+  justify-content: space-between;
+}
+
+.group-class {
+  background-color: white;
+  color: black;
+  text-align: left;
+  vertical-align: top;
+  height: 40rem;
+}
+
+.group-class-title-row {
+  height: 5rem;
+  background-color: lightgray;
+}
+
+.spacer-row {
+  height: 5rem;
+  background-color: white;
+  text-align: center;
+}
+
+.slideshow {
+  height: 30rem;
+  background-color: white;
+}
+
+.about-stp {
+  height: 50rem;
+  background-color: white;
+  text-align: left;
+  border: 1px solid lightgray;
+}
+
+
+
+.btn {
+  color: #523E33;  /* stp-brown */
+  background: #94C840; /* stp-green */
+  border-radius: 5px;
+  padding: 1.0rem;
+
+}
+
+.btn:hover {
+  color: white;
+  background: #523E33; /* stp-brown */
+  font-size: 110%;
+  border-radius: 5px;
+  padding: 1.5rem;
+}
+
+.instructor-info {
+  height: 20rem;
+  background-color: white;
+  color: black;
+}
+
+.instructor-pix {
+  height: 22rem;
+}
+
+
+
+
+
+.copyright {
+  text-align: center;
+  padding: 3rem;
+  color: darkgray;
+
+}
